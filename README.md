@@ -1,12 +1,10 @@
 # Lukas Erekson 
 
-- 🌱 I’m currently learning Java
-- 👷 I'm currently working professionally with Python 🐍 and TypeScript (React.js) ⚛️
-- 🤔 I'm interested in Rust, Ruby, and Web Development
+- 🌱 I’m currently learning about PostgreSQL, Redis, and `dotnet` cli tools.
+- 👷 I'm currently working professionally with C#/Dotnet, SQL Server, and JavaScript.
+- 🤔 I'm interested in mobile development, Rust 🦀, and Bash/Python scripting.
 
 I have a Bachelors Degree in Mathematics, but my particular focus and interest has been in scientific computing and software development. I love all things automation and documentation.
-
-Here, you can find several of my repositories I created as an undergrad, projects to learn Ruby on Rails following [The Odin Project](https://www.TheOdinProject.com/), and doing my own thing here and there.
 
 
 
